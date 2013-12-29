@@ -1,4 +1,4 @@
-#import os,sys,pygame,copy
+import os,sys,pygame,copy
 from pygame.locals import *
 
 WHEIGHT = 800 #Window Height (px)
